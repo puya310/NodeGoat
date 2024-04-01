@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM public.ecr.aws/docker/library/redis:alpine3.19
 ENV WORKDIR /usr/src/app/
 WORKDIR $WORKDIR
 COPY package*.json $WORKDIR
