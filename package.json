@@ -58,7 +58,7 @@
     "isomorphic-ws": "4.0.1",
     "jwt-decode": "2.2.0",
     "ldclient-js": "2.9.7",
-    "lodash": "4.17.11",
+    "lodash": "4.17.17",
     "lru-cache": "4.0.1",
     "markdown-table": "1.1.2",
     "markdown-to-jsx": "7.1.9",
