@@ -27,7 +27,7 @@
     "arr-flatten": "1.1.0",
     "array-to-dictionary": "1.0.1",
     "axe-core": "4.3.3",
-    "axios": "0.15.3",
+    "axios": "1.6.3",
     "battery-pack": "file:./packages/battery-pack",
     "bootstrap": "4.3.1",
     "chalk": "2.4.1",
