@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "@apollo/client": "3.2.0",
-    "@babel/traverse": "7.18.0",
+    "@babel/traverse": "7.23.2",
     "@datadog/browser-rum": "4.8.1",
     "@floating-ui/react-dom-interactions": "0.6.6",
     "@graphql-codegen/testing": "1.17.7",
